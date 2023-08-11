@@ -1,0 +1,9 @@
+{
+  "hosting": [
+    {
+      "target": "tictoe",
+      "source": ".",
+      "frameworksBackend": {}
+    }
+  ]
+}

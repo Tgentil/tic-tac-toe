@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "tic-tac-toe-tg-ng": {
+      "hosting": {
+        "tictoe": [
+          "tic-tac-toe-tg-ng"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "tic-tac-toe-tg-ng"
+  }
+}
