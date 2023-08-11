@@ -37,6 +37,23 @@ O projeto original pode ser encontrado:
 
 ![Instalação PWA](./src/assets/img/download.png )
 
+## Buscando Contribuições
+
+Estou ativamente buscando contribuições em áreas específicas para aprimorar este projeto. Se você está interessado em ajudar, aqui estão algumas das próximas features e melhorias que estou considerando:
+
+### 1. Jogo Contra o Computador
+Desenvolver um algoritmo onde o usuário possa jogar contra o computador em diferentes níveis de dificuldade:
+- **Fácil**: O computador faz jogadas aleatórias.
+- **Médio**: O computador joga como no nível "Impossível", porém com 50% de chance de fazer uma jogada aleatória a cada turno. 
+- **Impossível**: O computador joga de maneira otimizada, onde nunca perderá. O máximo que o usuário pode conseguir é um empate.
+
+> Este método ainda poderá ser polido e implementado algo melhor **(principalmente para a dificuldade média)**.
+
+### 2. Integração com Nebular UI Kit para Testes
+- Estou buscando alguém que tenha experiência ou conhecimento sobre como importar módulos do Nebular UI Kit para serem usados em testes com o Karma. Se você tem experiência nessa área ou sabe como fazer isso, sua ajuda seria muito valiosa!
+
+**Se você pode contribuir em qualquer uma dessas áreas, ou tem outras ideias para melhorar o projeto, por favor, considere fazer um fork e enviar um Pull Request ou abrir uma Issue para discutirmos suas ideias!**
+
 ## 🚀 Começando
 
 ### Pré-requisitos
