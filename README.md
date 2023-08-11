@@ -4,12 +4,12 @@
 Este projeto foi desenvolvido como uma implementação do jogo da velha utilizando Angular, inspirado no tutorial:
 
  [![Vídeo Tutorial](https://img.shields.io/badge/Assista%20o%20tutorial-Youtube-FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=G0bBLvWXBvc&list=PL0vfts4VzfNjsTV_6i9a9iczMnthWqHzM&index=12)
-.
+
 
 O projeto original pode ser encontrado:
 
 [![Fireship GitHub](https://img.shields.io/badge/Repositório%20Original-Fireship-FF4500?style=flat-square)](https://github.com/fireship-io/angular-tic-tac-toe)
-<img src="https://avatars.githubusercontent.com/u/46283609?s=200&v=4" width="20"> .
+<img src="https://avatars.githubusercontent.com/u/46283609?s=200&v=4" width="20">
 
 ### Aplicação
 
