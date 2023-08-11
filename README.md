@@ -68,10 +68,6 @@ Execute `ng serve` para iniciar o servidor de desenvolvimento. Acesse `http://lo
 
 Use `ng generate component component-name` para gerar um novo componente. Outros comandos disponíveis incluem `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-### Construindo o Projeto
-
-Execute `ng build` para construir o projeto. Os artefatos de construção serão armazenados no diretório `dist/`.
-
 ### Testes Unitários
 
 Execute `ng test` para realizar testes unitários através do [Karma](https://karma-runner.github.io).
