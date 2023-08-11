@@ -76,10 +76,6 @@ Execute `ng build` para construir o projeto. Os artefatos de construção serão
 
 Execute `ng test` para realizar testes unitários através do [Karma](https://karma-runner.github.io).
 
-### Testes End-to-End
-
-Execute `ng e2e` para realizar testes end-to-end através da plataforma de sua escolha. Para utilizar este comando, primeiro é necessário adicionar um pacote que implemente as funcionalidades de teste end-to-end.
-
 ## 📖 Documentação Adicional
 
 Para obter mais ajuda sobre o Angular CLI, use `ng help` ou consulte a [Referência de Comandos do Angular CLI](https://angular.io/cli).
