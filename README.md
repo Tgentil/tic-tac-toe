@@ -13,7 +13,7 @@ O projeto original pode ser encontrado:
 
 ### Aplicação
 
-![Aplicação funcionando](src\assets\vids\app.gif )
+![Aplicação funcionando](./src/assets/vids/app.gif )
 
 ## 🌟 Destaques
 
@@ -27,15 +27,15 @@ O projeto original pode ser encontrado:
 
 ### Lighthouse Report (Desktop)
 
-![Lighthouse Desktop](src\assets\img\desktop.png)
+![Lighthouse Desktop](./src/assets/img/desktop.png)
 
 ### Lighthouse Report (Mobile)
 
-![Lighthouse Mobile](src\assets\img\mobile.png)
+![Lighthouse Mobile](./src/assets/img/mobile.png)
 
 ### Instalação PWA pelo Google Chrome
 
-![Instalação PWA](src\assets\img\download.png)
+![Instalação PWA](./src/assets/img/download.png )
 
 ## 🚀 Começando
 
